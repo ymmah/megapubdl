@@ -6,8 +6,6 @@ download public files (with a public URL) from MEGA (mega.nz, mega.co.nz).
 It works with Python 2.6 and 2.7, and needs only the `openssl' external tool or
 PyCrypto installed. It can be made work with Python 2.4 and 2.5 as well.
 
-The implementation of megapubdl is based on
-https://github.com/richardasaurus/mega.py/blob/master/mega/mega.py
 
 Differences from mega.py:
 
